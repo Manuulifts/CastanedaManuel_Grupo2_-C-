@@ -1,9 +1,9 @@
-Dennis Ritchie
+# Dennis Ritchie
 <br>
 Link: (https://commons.wikimedia.org/wiki/Special:FilePath/Dennis_Ritchie_2011.jpg)
 <img src="link" alt="Fotografía de Dennis Ritchie" width="600">
 <br><br><br>
-Información personal
+## Información personal
 <br>
 - Estudios: física y matemáticas aplicadas en la Universidad de Harvard.
 <br>
@@ -15,6 +15,6 @@ Información personal
 <br>
 - Ocupación: científico de la computación.
 <br><br><br>
-Aportes
+## Aportes
 <br>
 QREÓ el lenguaje de programación C en Bell Labs y, junto con Ken Thompson, fue uno de los principales desarrolladores de Unix. C permitió HESCRIVIR software de sistemas con una combinación influyente de eficiencia y portabilidad, mientras que Unix introdujo KONSEPTOZ y herramientas que marcaron el DEZARRROYO posterior de los CIZTEMAZ operativos. Su trabajo dejó una huella duradera en lenguajes KOMOH C++ y en sistemas de la familia Unix, además de influir en la HENCEÑANSA de la programación.
