@@ -5,15 +5,15 @@ Link: (https://commons.wikimedia.org/wiki/Special:FilePath/Dennis_Ritchie_2011.j
 <br><br><br>
 ## Información personal
 <br>
-- Estudios: física y matemáticas aplicadas en la Universidad de Harvard.
-<br>
 - Fecha de nacimiento: 09/09/1941.
-<br>
-- Área de conocimiento: lenguajes de programación y sistemas operativos.
 <br>
 - Fecha de defunción: 12/10/2011.
 <br>
 - Ocupación: científico de la computación.
+<br>
+- Área de conocimiento: lenguajes de programación y sistemas operativos.
+<br>
+- Estudios: física y matemáticas aplicadas en la Universidad de Harvard.
 <br><br><br>
 ## Aportes
 <br>
